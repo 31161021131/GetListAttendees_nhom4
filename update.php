@@ -83,15 +83,12 @@
                 </form>
 
             </div>
+
+
             <form method="POST" action="update-event.php" style="margin: 10px">
-        
-                Email người nhận: <input type="text area" name="email" /><br />
-                New title: <input type="text" name="newsummary" /> <br />
+                Email người nhận: <input type="text area" name="email" /><br /> New title: <input type="text" name="newsummary" /> <br />
                 <input type="submit" name=" submit " value="Gửi" />
             </form>
-Kết thúc cuộc trò chuyện
-Nhập tin nhắn, @name...
-
         </div>
     </section>
 </body>
