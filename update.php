@@ -83,12 +83,6 @@
                 </form>
 
             </div>
-
-
-            <form method="POST" action="update-event.php" style="margin: 10px">
-                Email người nhận: <input type="text area" name="email" /><br /> New title: <input type="text" name="newsummary" /> <br />
-                <input type="submit" name=" submit " value="Gửi" />
-            </form>
         </div>
     </section>
 </body>
